@@ -101,9 +101,12 @@
   display: none;
 }
 .Text_introducere {
-  margin: 10vw;
+  margin: auto;
   font-size: 20px;
 }
 .row {
   text-align: center;
+}
+.imagine_naspa {
+  margin-left: 17vw;
 }
